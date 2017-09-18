@@ -1,5 +1,5 @@
 
-import React, { PropTypes } from 'react'
+import React from 'react'
 import {Route} from 'react-router-dom'
 import PostList from './PostList'
 import NewPost from './NewPost'
