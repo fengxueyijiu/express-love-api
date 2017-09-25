@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import './App.css';
+import '../css/App.css';
 
 
-import Header from './Header'
+import Header from './Header.js'
 import Main from './Main'
 import { BrowserRouter as Router} from 'react-router-dom'
 class App extends Component {
